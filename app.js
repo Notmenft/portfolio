@@ -41,11 +41,6 @@ topBtn.addEventListener('click', function() {
 // PROJECTS
 const pages = [
     {
-        id: 1,
-        image: 'assets/pfp.jpeg',
-        title: 'retardio',
-    },
-    {
         id: 2,
         image: 'assets/hund 1.jpeg',
         title: 'hund 1',
